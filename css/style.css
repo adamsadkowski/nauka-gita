@@ -16,3 +16,9 @@ body{
     margin: 0 auto;
     border: 2px solid red;
 }
+
+.footer{
+    font-size: 25px;
+    letter spacing: 0.3em;
+    text-transform: uppercase;
+}
