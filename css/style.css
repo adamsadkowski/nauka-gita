@@ -14,7 +14,12 @@ body{
     max-width: 500px;
     padding: 0 20px;
     margin: 0 auto;
-    border: 2px solid red;
+}
+
+.container p:first-of-type{
+    border: 1px solid #888888;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .footer{
