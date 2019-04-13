@@ -15,4 +15,4 @@ autoprefixer-cli -o style.prefixed.css style.css
       --no-remove          
   -i, --info               
   -h, --help               
-  -v, --version            
+  -v, --version
