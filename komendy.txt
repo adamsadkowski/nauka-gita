@@ -1,0 +1,18 @@
+autoprefixer-cli -o style.prefixed.css style.css
+ -b, --browsers BROWSERS  
+  -c, --clean              
+  -o, --output FILE        
+  -d, --dir DIR            
+  -m, --map                
+      --no-map             
+      --no-inline-map      
+      --inline-map         
+      --annotation PATH    
+      --no-map-annotation  
+      --no-sources-content 
+      --sources-content    
+      --no-cascade         
+      --no-remove          
+  -i, --info               
+  -h, --help               
+  -v, --version            
